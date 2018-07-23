@@ -1,0 +1,6 @@
+---
+applications:
+- name: EmployeePortal
+  memory: 1024M
+  host: EmployeePortal
+  domain: apps.eu01.cf.canopy-cloud.com
